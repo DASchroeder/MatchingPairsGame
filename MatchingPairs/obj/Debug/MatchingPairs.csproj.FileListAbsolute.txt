@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.Form1.resources
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.exe
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.exe
+c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.pdb
