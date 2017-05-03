@@ -7,3 +7,7 @@ c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPair
 c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.pdb
 c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.exe
 c:\users\daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.pdb
+C:\Users\Daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.exe.manifest
+C:\Users\Daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\bin\Debug\MatchingPairs.application
+C:\Users\Daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.exe.manifest
+C:\Users\Daniel\documents\visual studio 2017\Projects\MatchingPairs\MatchingPairs\obj\Debug\MatchingPairs.application
