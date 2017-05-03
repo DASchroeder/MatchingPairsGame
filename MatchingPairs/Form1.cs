@@ -78,6 +78,8 @@ namespace MatchingPairs
                 secondClicked = clickedLabel;
                 secondClicked.ForeColor = Color.Black;
 
+                CheckForWinner();
+
                 //makes matched pairs visible
                 if (firstClicked.Text == secondClicked.Text)
                 {
